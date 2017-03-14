@@ -15,7 +15,6 @@ The following devices are supported:
 - [iTead Sonoff Basic](http://sonoff.itead.cc/en/products/sonoff/sonoff-basic)
 - [iTead Sonoff RF](http://sonoff.itead.cc/en/products/sonoff/sonoff-rf)
 - [iTead Sonoff SV](https://www.itead.cc/sonoff-sv.html)
-<img alt="Sonoff" src="https://github.com/arendst/arendst.github.io/blob/master/media/sonoff_th.jpg" width="250" align="right" /> 
 - [iTead Sonoff TH10/TH16 with temperature sensor](http://sonoff.itead.cc/en/products/sonoff/sonoff-th)
 - [iTead Sonoff Dual](http://sonoff.itead.cc/en/products/sonoff/sonoff-dual)
 - [iTead Sonoff Pow](http://sonoff.itead.cc/en/products/sonoff/sonoff-pow)
@@ -27,6 +26,7 @@ The following devices are supported:
 - [iTead 1 Channel Switch 5V / 12V](https://www.itead.cc/smart-home/inching-self-locking-wifi-wireless-switch.html)
 - [iTead Motor Clockwise/Anticlockwise](https://www.itead.cc/smart-home/motor-reversing-wifi-wireless-switch.html)
 - [Electrodragon IoT Relay Board](http://www.electrodragon.com/product/wifi-iot-relay-board-based-esp8266/)
+<img alt="Sonoff" src="https://github.com/arendst/arendst.github.io/blob/master/media/sonoff_th.jpg" width="250" align="right" />
 
 <img alt="Sonoff" src="https://github.com/arendst/arendst.github.io/blob/master/media/sonofftoucheu.jpg" height="280" align="left" /> 
 <img alt="Sonoff" src="https://github.com/arendst/arendst.github.io/blob/master/media/sonoff4ch.jpg" height="250" align="right" /> 
