@@ -114,6 +114,7 @@ enum module_t {
   EXS_RELAY,
   WION,
   WEMOS,
+  YUNSHAN,
   MAXMODULE };
 
 /********************************************************************************************/
@@ -365,6 +366,21 @@ const mytmplt modules[MAXMODULE] PROGMEM = {
      GPIO_USER,        // GPIO15 D8
      GPIO_USER,        // GPIO16 D0 Wemos Wake
      GPIO_ADC0         // ADC or Vcc
+  },
+  { "yunshan relay",   // yunshan-relay (ESP8266) http://www.banggood.com/ESP8266-10A-220V-Network-Relay-WIFI-Module-Input-DC-7V30V-p-1089200.html
+     GPIO_KEY1,        // GPIO00
+     0,                // GPIO01
+     GPIO_USER,        // GPIO02
+     0,                // GPIO03
+     GPIO_REL1,        // GPIO04 Relay
+     GPIO_SWT1,        // GPIO05 Opto input
+     0, 0, 0, 0, 0, 0, // Flash connection
+     GPIO_USER,        // GPIO12
+     GPIO_USER,        // GPIO13
+     GPIO_USER,        // GPIO14
+     GPIO_USER,        // GPIO15
+     GPIO_USER,        // GPIO16
+     0         // ADC or Vcc
   }
 };
 

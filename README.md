@@ -26,6 +26,8 @@ The following devices are supported:
 - [iTead 1 Channel Switch 5V / 12V](https://www.itead.cc/smart-home/inching-self-locking-wifi-wireless-switch.html)
 - [iTead Motor Clockwise/Anticlockwise](https://www.itead.cc/smart-home/motor-reversing-wifi-wireless-switch.html)
 - [Electrodragon IoT Relay Board](http://www.electrodragon.com/product/wifi-iot-relay-board-based-esp8266/)
+- [Yunshan Relay Board](http://www.banggood.com/ESP8266-10A-220V-Network-Relay-WIFI-Module-Input-DC-7V30V-p-1089200.html)
+<img alt="Sonoff" src="http://img3.banggood.com/thumb/view/oaupload/banggood/images/9C/4F/9198ba0a-bb87-43f7-bd34-6d5ee351dc2e.jpg" height="280" align="left" />
 <img alt="Sonoff" src="https://github.com/arendst/arendst.github.io/blob/master/media/sonoff_th.jpg" width="250" align="right" />
 
 <img alt="Sonoff" src="https://github.com/arendst/arendst.github.io/blob/master/media/sonofftoucheu.jpg" height="280" align="left" /> 
